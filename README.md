@@ -19,9 +19,9 @@ if (password=12345) Email=abc@gmail.com{
 const op=prompt(
  'what is mean by W W W ? '
  
-'' A. los Angels' +
- B. london A  +
- C.liverspool A  +'
+' A.world wide web' +
+ B.'world wrong web  ' +
+ C.'world western world'+'
  );
  if(op=='A'){
    alert('correct!');
